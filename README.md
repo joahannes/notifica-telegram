@@ -1,4 +1,7 @@
 
+# Notifica-Telegram
+Script para verificação e invocação do bot @bullhorn_bot para notificar no Telegram quando uma determinada página sofre alterações.
+
 ### Criar diretório exclusivo para o bot de notificações operar ###
 	
 ```shellscript
