@@ -43,3 +43,8 @@ Adicionar ao final do arquivo:
 ```
 
 ### FEITO :)
+
+## Author
+
+| [<img src="https://avatars3.githubusercontent.com/u/10536588?s=460&v=4"><br><sub>@joahannes</sub>](https://github.com/joahannes) |
+| :---: |
