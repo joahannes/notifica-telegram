@@ -46,5 +46,5 @@ Adicionar ao final do arquivo:
 
 ## Author
 
-| [<img src="https://avatars3.githubusercontent.com/u/10536588?s=460&v=4"><br><sub>@joahannes</sub>](https://github.com/joahannes) |
+| [<img src="https://avatars3.githubusercontent.com/u/10536588?s=460&v=4" height="60" width="60"><br><sub>@joahannes</sub>](https://github.com/joahannes) |
 | :---: |
